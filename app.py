@@ -240,9 +240,8 @@ def hero():
         </div>
         
         <div class="social-sidebar">
-            <a href="#" class="social-minimal">GitHub</a>
-            <a href="#" class="social-minimal">LinkedIn</a>
-            <a href="#" class="social-minimal">Twitter</a>
+            <a href="https://github.com/Anushqaa" class="social-minimal">GitHub</a>
+            <a href="https://www.linkedin.com/in/anushqa/" class="social-minimal">LinkedIn</a>
         </div>
         
         <div class="geo-accent"></div>
