@@ -35,13 +35,31 @@
   <br><br>
 </div>
 
+<div align="center">
+  
+<table>
+  <tr>
+    <!-- Left Column - Code -->
+    <td width="30%">
+      
 ```python
 def deploy_ai():
     llm = FineTuner("Llama-3", lora=True)  # RAG pipelines that don't hallucinate
     vision = YOLOv8(quantized=True)        # Edge-optimized CV models
     backend = FastAPI + Redis              # Microservices that scale
     return ProductionSystem(llm, vision, backend)
+text
 ```
+</td>
+
+<!-- Right Column - Stats -->
+<td width="50%">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushqaa&size_weight=0.2&count_weight=0.6&layout=donut&exclude_repo=portfolio_html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</td>
+
+</tr> </table></div> 
 
 ---
 
